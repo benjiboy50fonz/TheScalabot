@@ -1,1 +1,17 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\scalabot_3-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\scalabot_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\classes\hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\classes\hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\classes\Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\classes\Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\classes\Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ok.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\classes\Ok.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ok.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ben Bistline\Code\TheScalabot\target\scala-3.1.0\classes\Ok.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
